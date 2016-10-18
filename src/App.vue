@@ -19,6 +19,11 @@ export default {
 </script>
 
 <style>
+
+html {
+  font-size: 64px;
+}
+
 #app {
   height: 100%;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
